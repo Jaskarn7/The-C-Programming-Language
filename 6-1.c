@@ -11,7 +11,7 @@ struct key {
     int count;
 } keytab[] = {
     "elliot", 0,
-    "farleen", 0,
+    "test", 0,
     "hello", 0,
     "jaskarn", 0
 };

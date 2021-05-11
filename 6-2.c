@@ -14,15 +14,6 @@ struct tnode {
     struct tnode *right;
 };
 
-// int atoi(char *p)
-// {
-//     int n;
-//     while (*p != '\0') {
-//         n = n * 10 + (*p++ - '0');
-//     }
-//     return n;
-// }
-
 char get_ch()
 {
 
@@ -154,7 +145,3 @@ int main(int argc, char *argv[])
     print_words(root);
     return 0;
 }
-
-/*
-jaskarn farleen hello elliot jasmangke elllkdso
-*/
